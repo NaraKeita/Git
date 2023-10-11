@@ -5,7 +5,9 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello Visual Studio! Git\n";
+    std::cout << "LC1D_20_ナラ_ケイタ\n";
+    std::cout << "2023/10/27\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
